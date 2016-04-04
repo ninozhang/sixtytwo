@@ -1,0 +1,27 @@
+{
+  "name": "sixtytwo",
+  "version": "1.0.0",
+  "description": "62进制哟",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninozhang/sixtytwo.git"
+  },
+  "keywords": [
+    "62",
+    "sixtytwo"
+  ],
+  "author": "nino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninozhang/sixtytwo/issues"
+  },
+  "devDependencies": {
+    "mocha": "2.4.5",
+    "should": "8.3.0"
+  },
+  "homepage": "https://github.com/ninozhang/sixtytwo#readme"
+}
